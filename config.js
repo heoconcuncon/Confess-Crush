@@ -6,7 +6,7 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'Hehe',
-    title: 'TUỔI MỚI PHẢI QUAN TÂM EM NHIỀU HƠN VÀ YÊU EM NHIỀU HƠN NỮA NHA',
+    title: 'Tuổi mới phải quan tâm bé nhiều hơn, yêu bé nhiều hơn nữa nhaa',
     desc: 'CẢM ƠN CHỒNG NHIỀU NHIỀU NHIỀU',
     btnYes: 'YÊU BÉ',
     btnNo: 'HÔNG IU BÉ :3',
@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Bé biết mà 🥰. Yêu chồng nhiều nhiều 😘😘',
-    messDesc: 'Chúc chồng em sinh thần vui vẻ, mong thời gian sắp tới sẽ gặp đươc chồng',
+    messDesc: 'Chúc chồng em sinh thần vui vẻ, mong thời gian sắp tới sẽ gặp đươc chồng sớm nhất nè',
     btnAccept: 'Dạ bé',
     messLink: 'https://www.facebook.com/conheocuncon' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
