@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Bé biết mà 🥰. Yêu chồng nhiều nhiều 😘😘',
     messDesc: 'Chúc chồng em sinh thần vui vẻ, mong thời gian sắp tới sẽ gặp đươc chồng',
     btnAccept: 'Dạ bé',
-    messLink: 'https://github.com/heoconcuncon/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/conheocuncon' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
